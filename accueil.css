@@ -1,0 +1,32 @@
+.ecriture{
+    font-size: large;
+    font-weight: 1000;
+    background-color: rgba(221, 141, 36, 0.384);
+    font-style: oblique;
+}
+.ecriture2{
+    font-size: large;
+    font-weight: 1000;
+    background-color: rgba(212, 149, 32, 0.479);
+    font-style: oblique;
+}
+.body1{
+    background-image: url("images/universe-3030466.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#inscription{
+   border: 1px solid rgb(12, 76, 172);
+   background-color: rgba(195, 43, 226, 0.363);
+   width: 500px;
+   align-self: center;
+   font-style: oblique;
+}
+#dur{
+    background-image: url("images/background-7018618.jpg");
+    font-size: large;
+    font-weight: 1000;
+    font-style: oblique;
+    color: cornsilk;
+}
+   
